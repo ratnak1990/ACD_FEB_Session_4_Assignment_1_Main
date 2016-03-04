@@ -1,0 +1,21 @@
+
+
+.speech {
+    width: 150px;
+    height: 80px;
+    border: 2px solid rgb(0, 191, 255);
+    left: 100px;
+    top: 40px;
+    position: relative;
+    border-radius: 10px;
+	background-color:rgb(0, 191, 255);
+}
+.trio {
+    width: 0px;
+    height: 0px;
+    left: 80px;
+    top: 60px;
+    border: 15px solid;
+    border-color: rgb(0, 191, 255) rgb(0, 191, 255) transparent transparent;
+    position: absolute;
+}
